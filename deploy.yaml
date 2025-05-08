@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: flask
-          image: sukanya996/bule-green:blue-46
+          image: sukanya996/bule-green:blue-50
           ports:
             - containerPort: 5000
